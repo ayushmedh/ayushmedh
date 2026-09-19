@@ -16,6 +16,8 @@ agentic AI can (and can't yet) do in practice.
 - 🧭 Where human judgment stays essential as agents take on more of the "doing"
 - 🌏 Enterprise AI adoption in Southeast Asia — pragmatic, production-grade
 
+**Currently building:** [Engagement Health Summarizer](https://github.com/ayushmedh/engagement-health-agent) — an agentic workflow that reads delivery inputs and produces a RAG health summary with risk flags
+
 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/ayushmedh/)
 
 _These projects use synthetic data and represent my own views and experiments._
